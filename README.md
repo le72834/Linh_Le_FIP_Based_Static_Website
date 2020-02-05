@@ -1,1 +1,1 @@
-# Linh_Le_FIP_Based_Static_Website
+# Midterm Assignmetn: Static Website Design 
