@@ -1,1 +1,1 @@
-# Midterm Assignmetn: Static Website Design 
+# Midterm Assignment: Static Website Design 
